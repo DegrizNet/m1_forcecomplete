@@ -1,4 +1,4 @@
-# OpenMage (Magento 1.9) - Mass Order Invoice/Ship
+# OpenMage (Magento 1.9) - Mass Order Invoice/Ship (Archived)
 
 Do you have a lot of orders and not enough time? With just a few clicks, you can change the order statuses in bulk, add new orders for delivery, and create invoices. Time is money!
 
