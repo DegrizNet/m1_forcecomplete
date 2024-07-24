@@ -11,7 +11,7 @@ The Magento module allows for easy bulk order status changes. With this module, 
 
 ## Author
 Anže Voh  
-[Degriz](https://www.degriz.net/)
+[Magento eCommerce Development](https://www.degriz.net/) at Degriz
 
 ## Installation
 
@@ -36,6 +36,14 @@ This project is licensed under the [MIT License](LICENSE).
 - Free support is not provided.
 - You are free to use and modify this module, but you cannot resell it.
 
-## Contact
+## Additional Information
 
-For more information or inquiries, please visit [Degriz](https://www.degriz.net/).
+I specialize in custom Magento theme development and have successfully completed numerous projects on the Magento platform. My services include:
+
+- **Custom Theme Development:** Creating unique, responsive, and user-friendly themes tailored to your specific business needs.
+- **Theme Customization:** Modifying existing themes to enhance functionality, improve aesthetics, and ensure compatibility with various extensions.
+- **Performance Optimization:** Ensuring that your Magento store runs smoothly and efficiently, providing a seamless shopping experience for your customers.
+- **SEO Optimization:** Implementing best practices to improve your store's visibility on search engines and drive more traffic to your site.
+- **Ongoing Support and Maintenance:** Providing continuous support to ensure your Magento store remains up-to-date and secure.
+
+For more information or inquiries, please visit [Magento eCommerce Development](https://www.degriz.net/).
