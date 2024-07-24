@@ -24,3 +24,18 @@ Anže Voh
 
 - Always test the module on a development version before using it in production.
 - By default, the option to send an invoice email is disabled, so only the shipment email is sent.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Disclaimer
+
+- This module is provided "as is", without warranty of any kind, express or implied. Use it at your own risk.
+- The author takes no responsibility for any problems or issues that arise from using this module.
+- Free support is not provided.
+- You are free to use and modify this module, but you cannot resell it.
+
+## Contact
+
+For more information or inquiries, please visit [Degriz](https://www.degriz.net/).
